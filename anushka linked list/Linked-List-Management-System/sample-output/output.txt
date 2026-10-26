@@ -1,0 +1,24 @@
+LINKED LIST MANAGEMENT SYSTEM
+
+Example test sequence:
+1. Choose Singly Linked List.
+2. Choose Insert at End and enter 40.
+3. Choose Insert at End and enter 10.
+4. Choose Insert at End and enter 30.
+5. Choose Insert at End and enter 20.
+6. Choose Display.
+
+Output:
+40 -> 10 -> 30 -> 20 -> NULL
+
+Choose Sort:
+List sorted in ascending order.
+10 -> 20 -> 30 -> 40 -> NULL
+
+Choose Reverse:
+List reversed.
+40 -> 30 -> 20 -> 10 -> NULL
+
+For a Doubly Linked List containing 10, 20, 30, 40:
+Forward:  NULL <-> 10 <-> 20 <-> 30 <-> 40 <-> NULL
+Backward: NULL <-> 40 <-> 30 <-> 20 <-> 10 <-> NULL
